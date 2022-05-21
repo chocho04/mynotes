@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "15134422794",
+    "project_id": "mynotes-chocho",
+    "storage_bucket": "mynotes-chocho.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15134422794:android:8fd6821f41aa80b998ecf3",
+        "android_client_info": {
+          "package_name": "eu.chochosan.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15134422794-rbfak9qqav1tfuqcjclv7s73o7bpmu6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYleS_f3GluTRu1aq0Xneay7xthVdo49s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15134422794-rbfak9qqav1tfuqcjclv7s73o7bpmu6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
